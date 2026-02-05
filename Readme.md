@@ -55,7 +55,9 @@ Write down:
 - the **ID of the radio input**
 - the **ID of the output div**
 
----
+---id="radio-output"
+blue green pink black
+
 
 ### Task 2: Connect HTML to JS using `querySelector`
 In `script.js`, connect:
